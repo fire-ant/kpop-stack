@@ -19,7 +19,8 @@
 				"shailen.netlify",
 				"ms-vscode.vscode-typescript-next",
 				"infeng.vscode-react-typescript",
-				"GitHub.vscode-pull-request-github"
+				"GitHub.vscode-pull-request-github",
+				"esbenp.prettier-vscode"
 			]
 		}
 	}
